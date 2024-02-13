@@ -1,0 +1,6 @@
+ID,Product,Units Sold,Sales Price,Discount Band,Segment,Country,Sales Rep,Profit,Date
+1,Product A,100,1200,Low,Segment1,Country1,Rep1,500,2023-01-01
+2,Product B,150,900,High,Segment2,Country2,Rep2,600,2023-01-02
+3,Product C,200,800,Medium,Segment1,Country3,Rep3,700,2023-01-03
+4,Product D,300,1500,Low,Segment2,Country1,Rep1,800,2023-01-04
+5,Product E,250,2000,High,Segment3,Country2,Rep2,900,2023-01-05

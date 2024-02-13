@@ -1,0 +1,6 @@
+ID_produto,Produto,Média de Unidades Vendidas,Médias do valor de vendas,Mediana do valor de vendas,Valor máximo de Venda,Valor mínimo de Venda
+1,Product A,100,1200,1200,1200,1200
+2,Product B,150,900,900,900,900
+3,Product C,200,800,800,800,800
+4,Product D,300,1500,1500,1500,1500
+5,Product E,250,2000,2000,2000,2000
